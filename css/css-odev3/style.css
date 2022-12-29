@@ -107,7 +107,6 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 
 .googlesearch {
   margin: 11px 4px;
-  background-color: white;
   padding: 0 16px;
   line-height: 27px;
   min-width: 54px;
@@ -129,7 +128,6 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 .feelinglucky {
   padding: 0 16px;
   line-height: 27px;
-  background-color: white;
   min-width: 54px;
   text-align: center;
   cursor: pointer;
